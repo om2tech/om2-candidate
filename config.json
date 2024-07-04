@@ -1,0 +1,12 @@
+{
+    "hostname": "Exercise-OM2",
+    "features": [
+        "Web-Server",
+        "Telnet-Client",
+        "File-Services"
+    ],
+    "users": [
+        "github_agent_user",
+        "azure_agent_user"
+    ]
+}
