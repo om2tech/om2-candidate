@@ -20,3 +20,4 @@ data "aws_ami" "ubuntu_2004" {
     values = ["hvm"]
   }
 }
+
